@@ -1,11 +1,9 @@
 <?php
 /**
  * Plugin Name: Resource Usage Analyzer
- * Plugin URI: https://wpbay.com/store/cognitowp/
  * Description: Analyzes which plugins are contributing to output (JS/CSS/HTML) and identifies dormant plugins.
  * Version: 1.1.0
- * Author: CognitoWP
- * Author URI: https://wpbay.com/store/cognitowp/
+ * Author: Juan Mojica
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: resource-usage-analyzer
