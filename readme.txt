@@ -1,6 +1,5 @@
 === Resource Usage Analyzer ===
-Contributors: CognitoWP
-Donate link: https://wpbay.com/store/cognitowp/
+Contributors: Juan Mojica
 Tags: performance, optimization, resources, analysis, plugins
 Requires at least: 5.0
 Tested up to: 6.8
