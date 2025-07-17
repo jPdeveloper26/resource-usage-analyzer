@@ -1,0 +1,170 @@
+# Copyright (C) 2024 Resource Usage Analyzer
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Resource Usage Analyzer 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wpbay.com/store/cognitowp/\n"
+"Last-Translator: CognitoWP <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-01T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: resource-usage-analyzer\n"
+
+#. Plugin Name of the plugin
+msgid "Resource Usage Analyzer"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://example.com/resource-usage-analyzer"
+msgstr ""
+
+#. Description of the plugin
+msgid "Analyzes which plugins are contributing to output (JS/CSS/HTML) and identifies dormant plugins."
+msgstr ""
+
+#. Author of the plugin
+msgid "Your Name"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://example.com"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-admin.php:134
+msgid "Scan Resources"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-admin.php:135
+msgid "Analyze which plugins are contributing to your site's output (CSS, JS, HTML) and identify dormant plugins."
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-admin.php:140
+msgid "Start Analysis"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-admin.php:152
+msgid "Analysis Results"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-admin.php:157
+msgid "Recommendations"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-ajax.php:44
+#: includes/class-resource-usage-analyzer-ajax.php:76
+msgid "Security check failed."
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-ajax.php:49
+#: includes/class-resource-usage-analyzer-ajax.php:81
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-ajax.php:63
+msgid "Scan completed successfully."
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-ajax.php:69
+#, php-format
+msgid "An error occurred during scanning: %s"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-ajax.php:87
+msgid "No scan results found. Please run a scan first."
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-ajax.php:105
+#, php-format
+msgid "An error occurred while generating the report: %s"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:130
+msgid "Dormant Plugins Detected"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:132
+#, php-format
+msgid "Found %d plugin(s) that appear to be dormant (not contributing any resources). Consider deactivating these plugins to improve performance."
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:161
+msgid "Heavy Resource Usage"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:162
+msgid "The following plugins are loading significant resources. Consider optimizing or finding lighter alternatives."
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:172
+#, php-format
+msgid "Multiple Scripts: %s"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:174
+#, php-format
+msgid "This plugin is loading %d separate script files. Consider combining them to reduce HTTP requests."
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:209
+msgid "Summary"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:213
+msgid "Total Plugins"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:217
+msgid "Contributing Plugins"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:221
+msgid "Dormant Plugins"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:225
+msgid "Total Scripts"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:229
+msgid "Total Styles"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:233
+msgid "Total Size"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:239
+msgid "Plugin Resource Usage"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:243
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:244
+msgid "Scripts"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:245
+msgid "Styles"
+msgstr ""
+
+#: includes/class-resource-usage-analyzer-reporter.php:246
+msgid "HTML Output"
+msgstr ""
+
+#: assets/js/resource-usage-analyzer-admin.js:24
+msgid "Scanning..."
+msgstr ""
+
+#: assets/js/resource-usage-analyzer-admin.js:25
+msgid "An error occurred. Please try again."
+msgstr ""
+
+#: assets/js/resource-usage-analyzer-admin.js:26
+msgid "Scan complete!"
+msgstr ""
