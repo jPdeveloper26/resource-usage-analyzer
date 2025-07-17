@@ -101,7 +101,3 @@ Initial release of Resource Usage Analyzer.
 == Privacy Policy ==
 
 This plugin does not collect, store, or transmit any personal data. All analysis is performed locally on your server, and results are stored temporarily in your WordPress database.
-
-== Support ==
-
-For support, feature requests, or bug reports, please visit our [support forum](https://wordpress.org/support/plugin/resource-usage-analyzer/) or [GitHub repository](https://github.com/yourname/resource-usage-analyzer).
